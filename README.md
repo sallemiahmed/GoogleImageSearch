@@ -34,7 +34,7 @@ You can download the precompiled Windows executable directly from the [Releases]
 
 Below are some screenshots of the GUI:
 
-![GUI Example](link-to-screenshot.png)
+![GUI Example](images/screenshot.png)
 
 ## Compiling the Application on Windows
 
